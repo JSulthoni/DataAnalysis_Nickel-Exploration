@@ -13,11 +13,10 @@ This was a project data I tried to redo by using Python. The results were the da
 
 Note: 
 - The BHID and coordinate in this dataset has been altered to protect the original owner.
-- 4 tables have their relation to each other through BHID.
 
 
 ## Step 0. Importing The Data
-Importing Excel database into python by using pandas.
+Importing Excel database into python.
 
 [IMPORTING THE DATA](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/e8c34d113da0b919c1931d2450aa0414ceeff0ad/Nickel%20Exploration_Part%200.ipynb)
 
@@ -27,7 +26,7 @@ The company asked a simple data anaysis to review the reconciliation.
 [DATA ANALYSIS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/3c771087c8414b3140693a02e76eb2f1496eff4a/Nickel%20Exploration_Part%201.ipynb)
 
 ## Step 2. An Deeper Look Is Needed
-By sorting the Ni value, it was found that DHP075 have an outstanding sample.
+By sorting the Ni value, it was found DHP075 has an outstanding results.
 
 [EDA INTO DHP075](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/ef7ceb09b3e123f2661d31683d37f4ddcb5d0e40/Nickel%20Exploration_Part%202.ipynb)
 
