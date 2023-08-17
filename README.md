@@ -32,7 +32,7 @@ By sorting the Ni value, it was found DHP075 has an outstanding results.
 ## A Case Study
 The company wanted to know if there are outliers and what to do with them.
 
-[CASE STUDY-OUTLIERS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/3980dd06c5bcde42bd61dbfc95c1137a27138ed3/Nickel%20Exploration_Case%20Study.ipynb)
+[CASE STUDY-OUTLIERS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/0287b5074af71d35dd022f7e7e38bb236aae55be/Nickel%20Exploration_Case%20Study.ipynb)
 
 ## Variogram
 coming soon....
