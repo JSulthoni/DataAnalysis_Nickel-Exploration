@@ -1,12 +1,10 @@
 # Data Analysis for Nickel Exploration
 
 
-## A data analysis from nickel exploration
-
 ## Introduction
-Nickel has been a rising comodity in Indonesia due to it's value and prospect for the increasing demand of superconductor and resistant alloy. One of resource where Nickel (Ni) can be explored and exploited is the Lateritic Nickel Ore Deposit.
+Nickel has been a rising comodity due to it's value and prospect for the increasing demand of superconductor and resistant alloy material. 
 
-This was a project data I tried to redo by using Python. The results were dataset below.
+This was a project data I tried to redo by using Python. The results were the dataset below.
 
 
 
