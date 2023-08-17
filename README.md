@@ -2,9 +2,8 @@
 
 
 ## Introduction
-Nickel has been a rising comodity due to it's value and prospect for the increasing demand of superconductor and resistant alloy material. 
 
-This was a project data I tried to redo by using Python. The results were the dataset below.
+A data analysis of a reconciled nickel exploration by using Python
 
 
 
