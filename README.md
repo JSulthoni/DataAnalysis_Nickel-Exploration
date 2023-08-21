@@ -27,7 +27,7 @@ The company asked a simple data anaysis to review the reconciliation.
 ## Step 2. A Deeper Look Is Needed
 By sorting the Ni value, it was found DHP075 has an outstanding results.
 
-[EDA INTO DHP075](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/b35b9ad945296d0cd4fd84a3359a6e7536422cab/Nickel%20Exploration_Part%202.ipynb)
+[EDA INTO DHP075](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/dabd48c526a175e22e92c4c355785a45abd8fa22/Nickel%20Exploration_Part%202.ipynb)
 
 ## A Case Study
 The company wanted to know if there are outliers and what to do with them.
