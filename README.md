@@ -22,7 +22,7 @@ Importing Excel database into python.
 ## Step 1. A Simple Data Analysis
 The company asked a simple data anaysis to review the reconciliation.
 
-[DATA ANALYSIS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/3980dd06c5bcde42bd61dbfc95c1137a27138ed3/Nickel%20Exploration_Part%201.ipynb)
+[DATA ANALYSIS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/bb1efaefdc133a4cb31071287fa866b9017bd687/Nickel%20Exploration_Part%201.ipynb)
 
 ## Step 2. A Deeper Look Is Needed
 By sorting the Ni value, it was found DHP075 has an outstanding results.
@@ -32,7 +32,7 @@ By sorting the Ni value, it was found DHP075 has an outstanding results.
 ## A Case Study
 The company wanted to know if there are outliers and what to do with them.
 
-[CASE STUDY-OUTLIERS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/0287b5074af71d35dd022f7e7e38bb236aae55be/Nickel%20Exploration_Case%20Study.ipynb)
+[CASE STUDY-OUTLIERS](https://github.com/JSulthoni/DataAnalysis_Nickel-Exploration/blob/bb1efaefdc133a4cb31071287fa866b9017bd687/Nickel%20Exploration_Case%20Study.ipynb)
 
 ## Variogram
 coming soon....
